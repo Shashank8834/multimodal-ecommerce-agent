@@ -55,3 +55,13 @@ opencv-python
 pandas
 numpy
 matplotlib
+```
+
+## 📦 Usage
+
+Clone the repository using the command below:
+
+```bash
+git clone https://github.com/Shashank8834/multimodal-ecommerce-agent.git
+cd multimodal-ecommerce-agent
+
